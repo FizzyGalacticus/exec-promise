@@ -1,0 +1,10 @@
+{
+  "name": "@fizzygalacticus/spawn-promise",
+  "version": "1.0.0",
+  "description": "A version of child_process.spawn that uses Promises",
+  "main": "index.js",
+  "repository": "https://github.com/FizzyGalacticus/spawn-promise",
+  "author": "Dustin L. Dodson",
+  "license": "MIT",
+  "private": false
+}
